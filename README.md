@@ -11,4 +11,4 @@ Many of these notebooks are influenced by the book *Computational modeling and v
 - [03-04 chaoticity of DDP](https://colab.research.google.com/github/atitus/compy/blob/main/notebooks/03-04-DDP-chaos/03-04-DDP-chaos.ipynb)
 - [03-05 phase space](https://colab.research.google.com/github/atitus/compy/blob/main/notebooks/03-05-phase-space/03-05-phase-space.ipynb)
 - [03-06 numba](https://colab.research.google.com/github/atitus/compy/blob/main/notebooks/03-06-numba/03-06-numba.ipynb)
-
+- [04-01 coupled osc](04-01-coupled-osc/04-01-coupled-osc-esayanimate.ipynb)
